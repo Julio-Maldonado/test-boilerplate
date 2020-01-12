@@ -2,7 +2,7 @@ var __wpo = {
   "assets": {
     "main": [
       "/test-boilerplate/favicon.ico",
-      "/test-boilerplate/runtime.513d1d77479426f83494.js",
+      "/test-boilerplate/runtime.b5c9a0ab5f5be60c8003.js",
       "/test-boilerplate/"
     ],
     "additional": [
@@ -37,15 +37,15 @@ var __wpo = {
     "384db8872e57d4e02a0fc63bb58773287cfd3a8a": "/test-boilerplate/npm.react-app-polyfill.d3a22eeac36fbfb2977e.chunk.js",
     "5b3fe4fddffed88dfee9ea38d3ff3280e8bda30a": "/test-boilerplate/npm.react-redux.37bd8022944d0edb33df.chunk.js",
     "737e93c0297d69c643c444efdcb519c744e85620": "/test-boilerplate/npm.redux-saga.aa8cda85cf5a3ebc3f93.chunk.js",
-    "9d30ed3f60be1bba1b184c8d8c361522a6615a4b": "/test-boilerplate/runtime.513d1d77479426f83494.js",
+    "3a071757d2149a4dcd22d364ce10a74b2a431de6": "/test-boilerplate/runtime.b5c9a0ab5f5be60c8003.js",
     "c001087db9a12bcaed1c9c7282c451efbb110a05": "/test-boilerplate/12.89ec2660f9cd04c25aa2.chunk.js",
     "657e8ec9182321fd49832e468bb89dc6e4330f2b": "/test-boilerplate/13.15d3efb94fa346deee8d.chunk.js",
     "00565662a44ddff6465eac40c911ea1b69a2a4ca": "/test-boilerplate/14.855ff712e7dcfa2bb16f.chunk.js",
-    "d94edae5b73abdd7eb0221061598f1ce67a5561e": "/test-boilerplate/"
+    "402d141e5064f65c9294e0a05032fadc0d2b8c67": "/test-boilerplate/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "1/11/2020, 8:54:32 PM",
+  "version": "1/11/2020, 9:09:16 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -130,7 +130,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/test-boilerplate/";
+/******/ 	__webpack_require__.p = "/test-boilerplate/build/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
