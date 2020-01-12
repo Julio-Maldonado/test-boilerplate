@@ -1,51 +1,51 @@
 var __wpo = {
   "assets": {
     "main": [
-      "/test-boilerplate/build/favicon.ico",
-      "/test-boilerplate/build/runtime.b5c9a0ab5f5be60c8003.js",
-      "/test-boilerplate/build/"
+      "/test-boilerplate/favicon.ico",
+      "/test-boilerplate/runtime.7d7d94af26c84f41e11b.js",
+      "/test-boilerplate/"
     ],
     "additional": [
-      "/test-boilerplate/build/npm.intl.d3b309cd1f41ae274e7d.chunk.js",
-      "/test-boilerplate/build/main.b5ef182e71fc3b2fa7d8.chunk.js",
-      "/test-boilerplate/build/npm.babel.6abce3f965f8c61bd5d3.chunk.js",
-      "/test-boilerplate/build/npm.connected-react-router.b53f10d65bc314f85598.chunk.js",
-      "/test-boilerplate/build/npm.emotion.04980c12aacceb9f8852.chunk.js",
-      "/test-boilerplate/build/npm.hoist-non-react-statics.96f1b33fd6a1ab11db43.chunk.js",
-      "/test-boilerplate/build/npm.intl-messageformat.1de3860bb6253e052c4a.chunk.js",
-      "/test-boilerplate/build/npm.intl-relativeformat.8dd32a5e5a16117331c4.chunk.js",
-      "/test-boilerplate/build/npm.react-app-polyfill.d3a22eeac36fbfb2977e.chunk.js",
-      "/test-boilerplate/build/npm.react-redux.37bd8022944d0edb33df.chunk.js",
-      "/test-boilerplate/build/npm.redux-saga.aa8cda85cf5a3ebc3f93.chunk.js",
-      "/test-boilerplate/build/12.89ec2660f9cd04c25aa2.chunk.js",
-      "/test-boilerplate/build/13.15d3efb94fa346deee8d.chunk.js",
-      "/test-boilerplate/build/14.855ff712e7dcfa2bb16f.chunk.js"
+      "/test-boilerplate/npm.intl.d3b309cd1f41ae274e7d.chunk.js",
+      "/test-boilerplate/main.15dc07d724c7bf4431ee.chunk.js",
+      "/test-boilerplate/npm.babel.6abce3f965f8c61bd5d3.chunk.js",
+      "/test-boilerplate/npm.connected-react-router.b53f10d65bc314f85598.chunk.js",
+      "/test-boilerplate/npm.emotion.04980c12aacceb9f8852.chunk.js",
+      "/test-boilerplate/npm.hoist-non-react-statics.96f1b33fd6a1ab11db43.chunk.js",
+      "/test-boilerplate/npm.intl-messageformat.1de3860bb6253e052c4a.chunk.js",
+      "/test-boilerplate/npm.intl-relativeformat.8dd32a5e5a16117331c4.chunk.js",
+      "/test-boilerplate/npm.react-app-polyfill.d3a22eeac36fbfb2977e.chunk.js",
+      "/test-boilerplate/npm.react-redux.37bd8022944d0edb33df.chunk.js",
+      "/test-boilerplate/npm.redux-saga.aa8cda85cf5a3ebc3f93.chunk.js",
+      "/test-boilerplate/12.89ec2660f9cd04c25aa2.chunk.js",
+      "/test-boilerplate/13.15d3efb94fa346deee8d.chunk.js",
+      "/test-boilerplate/14.855ff712e7dcfa2bb16f.chunk.js"
     ],
     "optional": []
   },
   "externals": [],
   "hashesMap": {
-    "5e53ef208f3fa79a48f8374488f473c76e1233de": "/test-boilerplate/build/favicon.ico",
-    "1e7fd4463861aeb6a378cf7fb56273f34f47d204": "/test-boilerplate/build/npm.intl.d3b309cd1f41ae274e7d.chunk.js",
-    "66e130c43bdc5c699e8135e4d7756690390949c2": "/test-boilerplate/build/main.b5ef182e71fc3b2fa7d8.chunk.js",
-    "cb8d91f0839aa728b6b311b10efd83ca5029f0b1": "/test-boilerplate/build/npm.babel.6abce3f965f8c61bd5d3.chunk.js",
-    "01a18404d9d8c15a8e2fe1fe984e137663b2812a": "/test-boilerplate/build/npm.connected-react-router.b53f10d65bc314f85598.chunk.js",
-    "c96ec75668fe511f98c10d230d7a95509078d889": "/test-boilerplate/build/npm.emotion.04980c12aacceb9f8852.chunk.js",
-    "840646dd54f7f06cb3c3c99d1eb6828a340043de": "/test-boilerplate/build/npm.hoist-non-react-statics.96f1b33fd6a1ab11db43.chunk.js",
-    "7f249fa9a9bbb9eabd21726c0840f0dcd502a293": "/test-boilerplate/build/npm.intl-messageformat.1de3860bb6253e052c4a.chunk.js",
-    "1f0b87d2ba64df8d794ac3304ff300a33a1992ff": "/test-boilerplate/build/npm.intl-relativeformat.8dd32a5e5a16117331c4.chunk.js",
-    "384db8872e57d4e02a0fc63bb58773287cfd3a8a": "/test-boilerplate/build/npm.react-app-polyfill.d3a22eeac36fbfb2977e.chunk.js",
-    "5b3fe4fddffed88dfee9ea38d3ff3280e8bda30a": "/test-boilerplate/build/npm.react-redux.37bd8022944d0edb33df.chunk.js",
-    "737e93c0297d69c643c444efdcb519c744e85620": "/test-boilerplate/build/npm.redux-saga.aa8cda85cf5a3ebc3f93.chunk.js",
-    "3a071757d2149a4dcd22d364ce10a74b2a431de6": "/test-boilerplate/build/runtime.b5c9a0ab5f5be60c8003.js",
-    "c001087db9a12bcaed1c9c7282c451efbb110a05": "/test-boilerplate/build/12.89ec2660f9cd04c25aa2.chunk.js",
-    "657e8ec9182321fd49832e468bb89dc6e4330f2b": "/test-boilerplate/build/13.15d3efb94fa346deee8d.chunk.js",
-    "00565662a44ddff6465eac40c911ea1b69a2a4ca": "/test-boilerplate/build/14.855ff712e7dcfa2bb16f.chunk.js",
-    "4a55ce2eaa33dff23720791c6b5c9482cadfd8f6": "/test-boilerplate/build/"
+    "5e53ef208f3fa79a48f8374488f473c76e1233de": "/test-boilerplate/favicon.ico",
+    "1e7fd4463861aeb6a378cf7fb56273f34f47d204": "/test-boilerplate/npm.intl.d3b309cd1f41ae274e7d.chunk.js",
+    "69db8869886f62c9b515b6f412c0ec3f312186da": "/test-boilerplate/main.15dc07d724c7bf4431ee.chunk.js",
+    "cb8d91f0839aa728b6b311b10efd83ca5029f0b1": "/test-boilerplate/npm.babel.6abce3f965f8c61bd5d3.chunk.js",
+    "01a18404d9d8c15a8e2fe1fe984e137663b2812a": "/test-boilerplate/npm.connected-react-router.b53f10d65bc314f85598.chunk.js",
+    "c96ec75668fe511f98c10d230d7a95509078d889": "/test-boilerplate/npm.emotion.04980c12aacceb9f8852.chunk.js",
+    "840646dd54f7f06cb3c3c99d1eb6828a340043de": "/test-boilerplate/npm.hoist-non-react-statics.96f1b33fd6a1ab11db43.chunk.js",
+    "7f249fa9a9bbb9eabd21726c0840f0dcd502a293": "/test-boilerplate/npm.intl-messageformat.1de3860bb6253e052c4a.chunk.js",
+    "1f0b87d2ba64df8d794ac3304ff300a33a1992ff": "/test-boilerplate/npm.intl-relativeformat.8dd32a5e5a16117331c4.chunk.js",
+    "384db8872e57d4e02a0fc63bb58773287cfd3a8a": "/test-boilerplate/npm.react-app-polyfill.d3a22eeac36fbfb2977e.chunk.js",
+    "5b3fe4fddffed88dfee9ea38d3ff3280e8bda30a": "/test-boilerplate/npm.react-redux.37bd8022944d0edb33df.chunk.js",
+    "737e93c0297d69c643c444efdcb519c744e85620": "/test-boilerplate/npm.redux-saga.aa8cda85cf5a3ebc3f93.chunk.js",
+    "5190ec70b8aca03d0e632743b9800481e6d2f65e": "/test-boilerplate/runtime.7d7d94af26c84f41e11b.js",
+    "c001087db9a12bcaed1c9c7282c451efbb110a05": "/test-boilerplate/12.89ec2660f9cd04c25aa2.chunk.js",
+    "657e8ec9182321fd49832e468bb89dc6e4330f2b": "/test-boilerplate/13.15d3efb94fa346deee8d.chunk.js",
+    "00565662a44ddff6465eac40c911ea1b69a2a4ca": "/test-boilerplate/14.855ff712e7dcfa2bb16f.chunk.js",
+    "1b6fab9a84e392babf0f0d1de6afcd711a1a3f4a": "/test-boilerplate/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "1/11/2020, 9:12:27 PM",
+  "version": "1/11/2020, 9:15:20 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -130,7 +130,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/test-boilerplate/build/";
+/******/ 	__webpack_require__.p = "/test-boilerplate";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
